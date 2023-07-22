@@ -2825,3 +2825,15 @@ figure figcaption #title-info #position {
   width: auto;
   border-bottom: 1px solid rgba(0,0,0,0.2);
 }
+::selection {
+  background: #eea2a4;
+  color: #fff;
+}
+::-moz-selection {
+  background: #eea2a4;
+  color: #fff;
+}
+::-webkit-selection {
+  background: #eea2a4;
+  color: #fff;
+}
